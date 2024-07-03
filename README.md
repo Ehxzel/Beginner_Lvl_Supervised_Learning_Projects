@@ -1,0 +1,2 @@
+# Beginner_Lvl_Supervised_Learning_Projects
+Compilation of Common Supervised Learning Projects
